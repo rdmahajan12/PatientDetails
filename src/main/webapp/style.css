@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+form{
+	text-align:center;
+	background-color: #2787b5a1;
+	padding-top: 20px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+}
+a{
+	color: #f9d005;
+    font-size: 20px;
+    margin-right: 10px;
+}
+label{
+	color: #e3f108;
+    font-family: serif;
+}
+body{
+	background-image: url("doctor.jpg");
+}
